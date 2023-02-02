@@ -1,4 +1,4 @@
-package = "kong-plugins-request-transformer"
+package = "request-transformer-knative"
 
 version = "1.1.1-0"
 
