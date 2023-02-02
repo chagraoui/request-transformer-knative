@@ -6,7 +6,7 @@ source = {
   url = "git+https://github.com/chagraoui/request-transformer-knative",
 }
 
-local pluginName = "kong-plugin-request-transformer-knative"
+local pluginName = "request-transformer-knative"
 supported_platforms = {"linux", "macosx"}
 
 
